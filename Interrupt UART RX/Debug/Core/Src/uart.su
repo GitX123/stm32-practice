@@ -1,0 +1,4 @@
+../Drivers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+../Core/Src/uart.c:20:6:uart2_rx_interrupt_init	8	static,ignoring_inline_asm
+../Core/Src/uart.c:57:13:uart_set_baudrate	24	static
+../Core/Src/uart.c:61:17:compute_uart_bd	16	static

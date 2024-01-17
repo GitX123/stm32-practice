@@ -1,0 +1,4 @@
+../Core/Src/uart.c:14:17:compute_uart_bd	1
+../Core/Src/uart.c:18:13:uart_set_baudrate	1
+../Core/Src/uart.c:22:6:uart2_rx_init	1
+../Core/Src/uart.c:51:6:uart2_read	2

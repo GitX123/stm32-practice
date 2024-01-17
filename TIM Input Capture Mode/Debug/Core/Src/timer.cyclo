@@ -1,0 +1,2 @@
+../Core/Src/timer.c:17:6:tim2_1hz_pa5_output_compare	1
+../Core/Src/timer.c:48:6:tim3_pa6_input_capture	1
